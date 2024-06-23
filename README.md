@@ -1,6 +1,4 @@
-Code for the paper 'Spatial-Spectral Feature Extraction of Hyperspectral Images using Local and Global Side-window Box Filtering' submitted to JSTARS
-
-# Local-and-Global-S-Box
+# Code for the paper 'Spatial-Spectral Feature Extraction of Hyperspectral Images using Local and Global Side-window Box Filtering' submitted to JSTARS
 - Based on YuanhaoGong/SideWindowFilter (https://github.com/YuanhaoGong/SideWindowFilter) open source.
 - Adding HSI datasets and some filtering code ( all data were classified using SVM. Some datasets are too large and cannot be uploaded to the GitHub ).
 
